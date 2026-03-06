@@ -69,8 +69,8 @@
 
 # 開発実績
 
-- セルラーポッツモデルシミュレータ (Python)
-  - 成果物（未公開）
+- セルラーポッツモデルシミュレータ
+  - [レポジトリ](https://github.com/Ayuphys789/cellular-potts-simulation)
 - VoIP通話 (C)
   - [レポジトリ](https://github.com/Ayuphys789/voip-phone)
 - 競技プログラミング ライブラリ・提出コード (C++)
